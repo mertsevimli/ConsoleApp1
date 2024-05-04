@@ -1,0 +1,14 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/Stringler
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/Stringler.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/Stringler.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/Stringler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/Stringler.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/Stringler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/Stringler.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/Stringler.dll

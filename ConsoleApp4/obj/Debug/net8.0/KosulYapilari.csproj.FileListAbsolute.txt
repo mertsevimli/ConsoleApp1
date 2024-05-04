@@ -1,0 +1,14 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/bin/Debug/net8.0/KosulYapilari
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/bin/Debug/net8.0/KosulYapilari.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/bin/Debug/net8.0/KosulYapilari.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/bin/Debug/net8.0/KosulYapilari.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/bin/Debug/net8.0/KosulYapilari.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/refint/KosulYapilari.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/KosulYapilari.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp4/obj/Debug/net8.0/ref/KosulYapilari.dll

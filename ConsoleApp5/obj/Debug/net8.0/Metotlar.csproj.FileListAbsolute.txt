@@ -1,0 +1,14 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/bin/Debug/net8.0/Metotlar
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/bin/Debug/net8.0/Metotlar.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/bin/Debug/net8.0/Metotlar.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/bin/Debug/net8.0/Metotlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/bin/Debug/net8.0/Metotlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/refint/Metotlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/Metotlar.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ConsoleApp5/obj/Debug/net8.0/ref/Metotlar.dll

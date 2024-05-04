@@ -1,0 +1,14 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/bin/Debug/net8.0/Konu06Diziler
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/bin/Debug/net8.0/Konu06Diziler.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/bin/Debug/net8.0/Konu06Diziler.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/bin/Debug/net8.0/Konu06Diziler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/bin/Debug/net8.0/Konu06Diziler.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/refint/Konu06Diziler.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/Konu06Diziler.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu06Diziler/obj/Debug/net8.0/ref/Konu06Diziler.dll
