@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/Konu08Siniflar
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/Konu08Siniflar.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/Konu08Siniflar.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/Konu08Siniflar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/Konu08Siniflar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/refint/Konu08Siniflar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/ref/Konu08Siniflar.dll

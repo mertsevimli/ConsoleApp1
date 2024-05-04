@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Konu08Siniflar/1.0.0": {
+        "runtime": {
+          "Konu08Siniflar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konu08Siniflar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
