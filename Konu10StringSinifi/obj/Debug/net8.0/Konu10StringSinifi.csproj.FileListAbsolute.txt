@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/bin/Debug/net8.0/Konu10StringSinifi
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/bin/Debug/net8.0/Konu10StringSinifi.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/bin/Debug/net8.0/Konu10StringSinifi.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/bin/Debug/net8.0/Konu10StringSinifi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/bin/Debug/net8.0/Konu10StringSinifi.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/refint/Konu10StringSinifi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/Konu10StringSinifi.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu10StringSinifi/obj/Debug/net8.0/ref/Konu10StringSinifi.dll
