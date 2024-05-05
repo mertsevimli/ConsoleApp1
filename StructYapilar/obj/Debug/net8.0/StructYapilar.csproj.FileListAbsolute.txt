@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/bin/Debug/net8.0/StructYapilar
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/bin/Debug/net8.0/StructYapilar.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/bin/Debug/net8.0/StructYapilar.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/bin/Debug/net8.0/StructYapilar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/bin/Debug/net8.0/StructYapilar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/refint/StructYapilar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/StructYapilar.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/StructYapilar/obj/Debug/net8.0/ref/StructYapilar.dll

@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using ClassLibrary1;
 using Konu08Siniflar;
 
 namespace Konu08Diziler
@@ -87,6 +88,7 @@ namespace Konu08Diziler
             SiniftaMetotKullanimi metotKullanimi = new();
             System.Console.WriteLine("metotKullanimi: " + metotKullanimi.ToplamaYap(10, 8));
             System.Console.WriteLine();
+            /*
             System.Console.WriteLine("Kullanıcı Adınızı Giriniz");
             var KullaniciAdi = Console.ReadLine();
 
@@ -95,6 +97,28 @@ namespace Konu08Diziler
 
             bool sonuc = metotKullanimi.LoginKontrol(KullaniciAdi, kullaniciSifre);
             System.Console.WriteLine("Login kontrol : " + (sonuc == true ? "Giriş Başarılı.. " : "Giriş Başarısız!"));
+
+            */
+
+            Category category = new Category() // Bu kategori classlibarary1  projesinden geliyor!
+           {
+
+            Id = 1,
+            Name = "Telefon",
+           } ;
+           System.Console.WriteLine("Kategori Adı :" + category.Name);
+           Category.StatikDeger = "static elemanlara direk classadı. propadı şeklinde erişilebilriiz, class ı newlemeye gerek yok.";
+           System.Console.WriteLine(Category.StatikDeger);
+
+           Product product= new Product()
+           {
+            Id = 1,
+            Name = "Ayfon 18 plas",
+            Description = "Daha büyük çentik, süper kamera"
+    
+           };
+           System.Console.WriteLine("Ürün Adı : " + product.Name);
+           System.Console.WriteLine("Ürün Açıklaması : " + product.Description);
 
 
 

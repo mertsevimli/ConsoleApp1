@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konu08Siniflar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e13ab2966c7418bc2cb3fe1ae7f542c6cb7ce0eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f41ba0cbc73aaf43de42f7c42f1b2f47f7b783")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konu08Siniflar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konu08Siniflar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

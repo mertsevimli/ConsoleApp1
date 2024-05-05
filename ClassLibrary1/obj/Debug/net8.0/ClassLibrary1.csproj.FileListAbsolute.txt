@@ -1,0 +1,12 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll

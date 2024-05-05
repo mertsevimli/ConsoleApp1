@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu07Donguler", "Konu07Don
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu08Siniflar", "Konu08Siniflar\Konu08Siniflar.csproj", "{03C3859E-13F1-401D-B25B-941ADBA7F145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{664E26F6-BF3A-4EE3-87DD-E051F736DDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructYapilar", "StructYapilar\StructYapilar.csproj", "{D5DCB0BB-559B-4626-B64E-0E64F42E4CA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{03C3859E-13F1-401D-B25B-941ADBA7F145}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C3859E-13F1-401D-B25B-941ADBA7F145}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03C3859E-13F1-401D-B25B-941ADBA7F145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664E26F6-BF3A-4EE3-87DD-E051F736DDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664E26F6-BF3A-4EE3-87DD-E051F736DDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664E26F6-BF3A-4EE3-87DD-E051F736DDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664E26F6-BF3A-4EE3-87DD-E051F736DDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DCB0BB-559B-4626-B64E-0E64F42E4CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DCB0BB-559B-4626-B64E-0E64F42E4CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DCB0BB-559B-4626-B64E-0E64F42E4CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DCB0BB-559B-4626-B64E-0E64F42E4CA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

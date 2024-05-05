@@ -13,3 +13,7 @@
 /Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.pdb
 /Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.genruntimeconfig.cache
 /Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/ref/Konu08Siniflar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Siniflar.csproj.AssemblyReference.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu08Siniflar/obj/Debug/net8.0/Konu08Si.A847274D.Up2Date
