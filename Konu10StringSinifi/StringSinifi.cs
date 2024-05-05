@@ -8,7 +8,8 @@
             string degisken;
             char karakter = 'z';
             string metin = "String yan yana dizilmiş char yapısıdır.";
-            Ornek();
+            //Ornek();
+            StringMetotlari();
         }
 
 
@@ -21,11 +22,37 @@
             System.Console.WriteLine("birSayi veri tipi: " + birSayi.GetType());
             System.Console.WriteLine("birTarih veri tipi: " + birTarih.GetType());
             string s = "Barış Manço";// s karakterlerden oluşan bir dizidir.
+            System.Console.WriteLine("s: " + s);
             for (int i = 0; i < s.Length; i++) // s değişkenindeki karakter kadar dön
             {
-                System.Console.WriteLine($"s[{i}] {s[i]}");// döngü her döndüğünde ilgili  indexteki karakteri ekran yazdır
+                System.Console.WriteLine($"s[{i}] : {s[i]}");// döngü her döndüğünde ilgili  indexteki karakteri ekran yazdır.s[i] kodu s değişkenindeki i. karakteri ekrana yazar.
+
+            }
+            foreach (var item in s)//foreach ile s değişkenindeki her bir karakteri ekran yazdırabiliriz.
+            {
+                System.Console.WriteLine(item);// item s değişkenindeki her bir karaktere karşılık gelir.
             }
         }
+        static void StringMetotlari()
+        {
+            string metin = "Stringin birçok metodu vardır.";
+            System.Console.WriteLine("metin: " + metin);
+            System.Console.WriteLine("metnin karakter sayısı : " + metin.Length); // Length bize değişkenin kaç karakterden oluştuğu bilgisini verir.
+            var klon = metin.Clone();
+            System.Console.WriteLine("metnin klonu : " + klon);
+            metin = "My name is ALp";
+            System.Console.WriteLine("metin: " + metin);
+            System.Console.WriteLine("metin p ile bitiyor mu : " + metin.EndsWith('p'));
+            System.Console.WriteLine("metin r ile bitiyor mu : " + metin.EndsWith('r'));
+            System.Console.WriteLine();
 
+            System.Console.WriteLine("metin s ile başlıyor mu : " + metin.StartsWith('s'));
+            System.Console.WriteLine("metin M ile başlıyor mu : " + metin.StartsWith('M'));
+
+            System.Console.WriteLine("metin IndexOf('i') : " + metin.IndexOf('i')); // metin değişkeni içinde ilgili karakterin başladığı index değerini veriyor.
+            System.Console.WriteLine("metin IndexOf(\"name\") : " + metin.IndexOf("name"));
+            System.Console.WriteLine("metin IndexOf(\"var\") : " + metin.IndexOf("var")); // Eğer bulamazsa -1 değeri döndürüyor
+            System.Console.WriteLine("metin LastIndexOf('i') : " + metin.LastIndexOf('i'));// i nin geçtiği en son index numarası 
+        }
     }
 }
