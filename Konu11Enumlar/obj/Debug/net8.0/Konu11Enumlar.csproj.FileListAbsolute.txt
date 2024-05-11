@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/bin/Debug/net8.0/Konu11Enumlar
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/bin/Debug/net8.0/Konu11Enumlar.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/bin/Debug/net8.0/Konu11Enumlar.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/bin/Debug/net8.0/Konu11Enumlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/bin/Debug/net8.0/Konu11Enumlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/refint/Konu11Enumlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/Konu11Enumlar.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu11Enumlar/obj/Debug/net8.0/ref/Konu11Enumlar.dll

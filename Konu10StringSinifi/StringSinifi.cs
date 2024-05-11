@@ -53,6 +53,27 @@
             System.Console.WriteLine("metin IndexOf(\"name\") : " + metin.IndexOf("name"));
             System.Console.WriteLine("metin IndexOf(\"var\") : " + metin.IndexOf("var")); // Eğer bulamazsa -1 değeri döndürüyor
             System.Console.WriteLine("metin LastIndexOf('i') : " + metin.LastIndexOf('i'));// i nin geçtiği en son index numarası 
+            System.Console.WriteLine("metin.Insert" + metin.Insert(0, "Merhaba ")); // değişkene verdiğimiz index numarasından itibaren ilgili değeri ( Merhaba ) ekle ( insert metodu metnin değerini değiştirmez!)
+            System.Console.WriteLine("metin: " + metin);
+            System.Console.WriteLine("metin.Substring " + metin.Substring(2)); // metnin içinde verilen indexteki karakterlerden itibaren kalan kısmı parçalayıp bize getirir.
+            System.Console.WriteLine("metin.Substring " + metin.Substring(2, 5)); // 1. parametre metnin içinde kaçıncı sırada başlayacak , 2 . parametre kaç karakter uzunluğunda parça alınsın.
+
+            System.Console.WriteLine("metinToLower() metindeki tüm karakterleri küçük harf yapar : " + metin.ToLower());
+            System.Console.WriteLine("metinToUpper() metindeki tüm karakterleri büyük harf yapar : " + metin.ToUpper());
+            System.Console.WriteLine("metin: metin.ToLower().Replace(\"\", \"-\") " + metin.ToLower().Replace(" ", "-"));// Replace metodu ilk parametrede gördüğü karakteri 2. parametrede verdiğimizle değiştirir.
+            System.Console.WriteLine("metin.Remove(2, 5)verilen indexten itibaren 5 karakteri sil: " + metin.Remove(2, 5));
+
+            string sehirler = "İstanbul,Ankara,İzmir,Çankırı,Karabük";
+            System.Console.WriteLine("Şehirler:" + sehirler);
+            string[]sehirlistesi = sehirler.Split(","); // Split metodu kendisine verilen karakter ile ayrılmış olan verileri o karaktere göre parçalayıp sehirlistesi dizisine atar.
+            System.Console.WriteLine("Seçilen Şehir: " + sehirlistesi [4]);
+            foreach (var sehir in sehirlistesi)
+            {
+                System.Console.WriteLine(sehir);
+            }
+
+
+
         }
     }
 }

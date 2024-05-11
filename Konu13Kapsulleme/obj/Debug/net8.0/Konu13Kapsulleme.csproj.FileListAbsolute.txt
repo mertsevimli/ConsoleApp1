@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/bin/Debug/net8.0/Konu13Kapsulleme
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/bin/Debug/net8.0/Konu13Kapsulleme.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/bin/Debug/net8.0/Konu13Kapsulleme.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/bin/Debug/net8.0/Konu13Kapsulleme.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/bin/Debug/net8.0/Konu13Kapsulleme.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/refint/Konu13Kapsulleme.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/Konu13Kapsulleme.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu13Kapsulleme/obj/Debug/net8.0/ref/Konu13Kapsulleme.dll

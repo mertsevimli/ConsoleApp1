@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/bin/Debug/net8.0/Konu14Interfaces
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/bin/Debug/net8.0/Konu14Interfaces.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/bin/Debug/net8.0/Konu14Interfaces.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/bin/Debug/net8.0/Konu14Interfaces.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/bin/Debug/net8.0/Konu14Interfaces.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/refint/Konu14Interfaces.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/Konu14Interfaces.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu14Interfaces/obj/Debug/net8.0/ref/Konu14Interfaces.dll

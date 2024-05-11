@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/bin/Debug/net8.0/Konu12KalitimInheritance
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/bin/Debug/net8.0/Konu12KalitimInheritance.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/bin/Debug/net8.0/Konu12KalitimInheritance.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/bin/Debug/net8.0/Konu12KalitimInheritance.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/bin/Debug/net8.0/Konu12KalitimInheritance.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/refint/Konu12KalitimInheritance.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/Konu12KalitimInheritance.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu12KalitimInheritance/obj/Debug/net8.0/ref/Konu12KalitimInheritance.dll
