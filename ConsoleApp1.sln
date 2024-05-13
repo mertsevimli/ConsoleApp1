@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu13Kapsulleme", "Konu13K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu14Interfaces", "Konu14Interfaces\Konu14Interfaces.csproj", "{9AE4E954-69D7-44F1-9F6B-EDF2F0517F16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu15AbstractSiniflar", "Konu15AbstractSiniflar\Konu15AbstractSiniflar.csproj", "{DCC17E24-5564-41D2-80D7-25D92CD8FC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu16Koleksiyonlar", "Konu16Koleksiyonlar\Konu16Koleksiyonlar.csproj", "{A15226B4-8DC4-49AE-A0AC-6BC8D1579CA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{9AE4E954-69D7-44F1-9F6B-EDF2F0517F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AE4E954-69D7-44F1-9F6B-EDF2F0517F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AE4E954-69D7-44F1-9F6B-EDF2F0517F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC17E24-5564-41D2-80D7-25D92CD8FC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC17E24-5564-41D2-80D7-25D92CD8FC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC17E24-5564-41D2-80D7-25D92CD8FC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC17E24-5564-41D2-80D7-25D92CD8FC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15226B4-8DC4-49AE-A0AC-6BC8D1579CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15226B4-8DC4-49AE-A0AC-6BC8D1579CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15226B4-8DC4-49AE-A0AC-6BC8D1579CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15226B4-8DC4-49AE-A0AC-6BC8D1579CA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

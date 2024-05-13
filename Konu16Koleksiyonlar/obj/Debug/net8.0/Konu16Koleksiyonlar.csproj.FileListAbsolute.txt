@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/bin/Debug/net8.0/Konu16Koleksiyonlar
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/bin/Debug/net8.0/Konu16Koleksiyonlar.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/bin/Debug/net8.0/Konu16Koleksiyonlar.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/bin/Debug/net8.0/Konu16Koleksiyonlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/bin/Debug/net8.0/Konu16Koleksiyonlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/refint/Konu16Koleksiyonlar.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/Konu16Koleksiyonlar.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu16Koleksiyonlar/obj/Debug/net8.0/ref/Konu16Koleksiyonlar.dll
