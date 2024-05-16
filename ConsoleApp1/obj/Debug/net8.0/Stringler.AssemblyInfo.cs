@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stringler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6fb3ffa76557fdc7ec0dadab716a1947410b6ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c37db718fd0940cbbad2f4d2988defb9676124")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stringler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stringler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

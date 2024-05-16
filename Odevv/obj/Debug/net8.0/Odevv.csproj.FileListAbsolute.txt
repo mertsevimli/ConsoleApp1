@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/bin/Debug/net8.0/Odevv
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/bin/Debug/net8.0/Odevv.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/bin/Debug/net8.0/Odevv.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/bin/Debug/net8.0/Odevv.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/bin/Debug/net8.0/Odevv.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/refint/Odevv.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/Odevv.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Odevv/obj/Debug/net8.0/ref/Odevv.dll
