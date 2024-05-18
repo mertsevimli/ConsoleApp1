@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konu14Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c37db718fd0940cbbad2f4d2988defb9676124")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a6566611d44fe1ca2ef9cd6092d6e61a964d80")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konu14Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konu14Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
