@@ -1,0 +1,15 @@
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.sourcelink.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/bin/Debug/net8.0/Konu17HataYonetimi
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/bin/Debug/net8.0/Konu17HataYonetimi.deps.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/bin/Debug/net8.0/Konu17HataYonetimi.runtimeconfig.json
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/bin/Debug/net8.0/Konu17HataYonetimi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/bin/Debug/net8.0/Konu17HataYonetimi.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/refint/Konu17HataYonetimi.dll
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.pdb
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/Konu17HataYonetimi.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/ConsoleApp1/Konu17HataYonetimi/obj/Debug/net8.0/ref/Konu17HataYonetimi.dll

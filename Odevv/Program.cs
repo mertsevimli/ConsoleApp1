@@ -75,10 +75,3 @@ class Program
 }
 
 
-/*
-
- Nasil goruntuluyorsun app'de
-  Terminalde görüyorum sadece 
-  Wpden attım abi 
-
- */

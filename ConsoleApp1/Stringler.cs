@@ -74,3 +74,5 @@ const int kdv = 18;
 const int iskonto = 20;
 //kdv = 20; // sabitlerin değeri sonradan değiştirilemez!
 Console.WriteLine(sabit + " kdv : " + kdv);
+
+

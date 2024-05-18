@@ -17,7 +17,7 @@
             // abstract class tan nesne oluşturma
             //Database database= new Database();// abstract bu şekilde direkt nesne oluşturmaya izin vermez !
             System.Console.WriteLine("Sql veritabanı işlemleri");
-            Database database= new SqlServer(); // abstract classlarda nesneyi bu şekilde oluşturabiliriz!
+            Database database = new SqlServer(); // abstract classlarda nesneyi bu şekilde oluşturabiliriz!
             database.Add();
             database.Update(18); // methodu id ile  çalışır yaptığımız için güncellemek istediğimiz kayıt  numarasını bu şekilde parametra  olarak yollamak zorundayız yoksa hata alırız.!
 

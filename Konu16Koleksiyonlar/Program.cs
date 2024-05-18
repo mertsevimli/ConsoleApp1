@@ -255,38 +255,69 @@ namespace Konu16Koleksiyonlar
                  }
             };
             System.Console.WriteLine("Kullacilar Listesi : ");
-            foreach(var item in kullanicilar)
+            foreach (var item in kullanicilar)
             {
                 System.Console.WriteLine($"Kullanıcı Bilgileri : No : {item.Id} Adı : {item.Name} Email {item.Email}");
             }
             System.Console.WriteLine();
-             users.AddRange(kullanicilar); // kullanicilar listesini users listesine topluca ekler  AddRange kodu ekler
+            users.AddRange(kullanicilar); // kullanicilar listesini users listesine topluca ekler  AddRange kodu ekler
 
-             System.Console.WriteLine("2 listenin birleşimi sonrası dögü : ");
-             foreach (User item in users)
-             {
+            System.Console.WriteLine("2 listenin birleşimi sonrası dögü : ");
+            foreach (User item in users)
+            {
                 System.Console.WriteLine($"Kullanıcı Bilgileri : No : {item.Id} Adı : {item.Name} Email {item.Email}");
-             }
-             var yeniKullanici = new User()
-             {
-                Id = 6, Name = "Lider" , Email = "lider@liderpide.net" , Password ="Lid159"
-             };
-             System.Console.WriteLine("Kullanıcı Listesinde yeniKullanici var mı?");
-             System.Console.WriteLine(users.Contains(yeniKullanici));//Contains metodu yeniKullanici nesnesini users içinde arar bulursa true bulamazsa false döner.
-             users.Add(yeniKullanici); // users listesine yenikullanici yı ekledik
-             System.Console.WriteLine("Şimdi var mı?");
-             System.Console.WriteLine(users.Contains(yeniKullanici));
+            }
+            var yeniKullanici = new User()
+            {
+                Id = 6,
+                Name = "Lider",
+                Email = "lider@liderpide.net",
+                Password = "Lid159"
+            };
+            System.Console.WriteLine("Kullanıcı Listesinde yeniKullanici var mı?");
+            System.Console.WriteLine(users.Contains(yeniKullanici));//Contains metodu yeniKullanici nesnesini users içinde arar bulursa true bulamazsa false döner.
+            users.Add(yeniKullanici); // users listesine yenikullanici yı ekledik
+            System.Console.WriteLine("Şimdi var mı?");
+            System.Console.WriteLine(users.Contains(yeniKullanici));
+
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("yeniKullanici ekleme sonrası döngü : ");
+            foreach (User item in users)
+            {
+                System.Console.WriteLine($"Kullanıcı Bilgileri : No : {item.Id} Adı : {item.Name} Email {item.Email}");
+            }
+            users.Insert(1, yeniKullanici);// Insert metodu verilen sıraya (1)2. parametrede verilen datayı ekler
+
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("Insert metoduyla yeniKullanici ekleme sonrası döngü : "); // istediğimiz sıraya eklememizi sağlıyor 0 ilk numara 1 numara ise 2. sırada yer alıyor.
+            foreach (User item in users)
+            {
+                System.Console.WriteLine($"Kullanıcı Bilgileri : No : {item.Id} Adı : {item.Name} Email {item.Email}");
+
+            }
+            System.Console.WriteLine();
+            var kullaniciSilindimi = users.Remove(yeniKullanici);
+            if (kullaniciSilindimi == true)
+            {
+                System.Console.WriteLine(yeniKullanici.Name + "Listeden başarıyla silindi.. "); System.Console.WriteLine("yeniKullanici ekleme sonrası döngü : ");
+                foreach (User item in users)
+                {
+                    System.Console.WriteLine($"Kullanıcı Bilgileri : No : {item.Id} Adı : {item.Name} Email {item.Email}");
+                }
+            }
+            
+        }
+        class User
+        {
+            public int Id { get; set; }
+            public string Name { get; set; }
+            public string Password { get; set; }
+            public string Email { get; set; }
         }
 
+    }
 
 
-    }
-    class User
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Password { get; set; }
-        public string Email { get; set; }
-    }
-   
 }
